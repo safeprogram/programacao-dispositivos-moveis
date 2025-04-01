@@ -1,4 +1,4 @@
-# programacao-dispositivos-moveis# Programação para Dispositivos Móveis
+# Programação para Dispositivos Móveis
 
 Repositório criado para as aulas teóricas e atividades práticas da disciplina.
 
